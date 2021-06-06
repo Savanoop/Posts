@@ -1,0 +1,20 @@
+.pageLayout{
+  text-align: center;
+  padding: 20px;
+  margin-top: 40px;
+}
+.textbox{
+  padding: 15px;
+}
+.saveButton{
+  margin-right: 80px;
+}
+.error{
+  color: red;
+  width: 300px;
+  font-size:13px;
+}
+input{
+  height: 40;
+  width:250
+}
